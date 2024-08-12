@@ -38,7 +38,7 @@ email: sngyu13@gmail.com
 
 `#Fast API`
 
-[GitHub Link]([https://github.com/](https://github.com/Nacho-Cola/AllNewEyeCare))
+[GitHub Link](https://github.com/Nacho-Cola/AllNewEyeCare)
 
 캡스톤 프로젝트에서 제작한 앱입니다.
 - 
