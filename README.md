@@ -38,12 +38,8 @@ email: sngyu13@gmail.com
 
 `#Fast API`
 
-[GitHub Link](https://github.com/Nacho-Cola/AllNewEyeCare)
-
-캡스톤 프로젝트에서 제작한 앱입니다.
-- 
-- 
-##
+소아 사시 진단을 위한 스마트폰 기반 각막 빛 반사 검사 시스템 구현 및 VR 비전테라피
+[GitHub Link](https://github.com/Nacho-Cola/AllNewEyeCare) [[PAPER](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11724447)]
 
 
 
