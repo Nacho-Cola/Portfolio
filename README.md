@@ -33,14 +33,12 @@ email: sngyu13@gmail.com
 [GitHub Link](https://github.com/)
 
 
-## 
-ㅍ
 ### _EyeCare_
-`#Java` `#Android`
+`#Python` `#C#` `#Unity` `#React-Native` 
 
-`#Firebase`
+`#Fast API`
 
-[GitHub Link](https://github.com/)
+[GitHub Link]([https://github.com/](https://github.com/Nacho-Cola/AllNewEyeCare))
 
 캡스톤 프로젝트에서 제작한 앱입니다.
 - 
