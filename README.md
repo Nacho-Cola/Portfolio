@@ -28,7 +28,7 @@ email: sngyu13@gmail.com
 ## Projects
 
 ### _Voice Verity_
-`#Java` `#Android`
+`#Pyton` `#Tensorflow`
 
 [GitHub Link](https://github.com/)
 
