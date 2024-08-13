@@ -24,6 +24,11 @@ email: sngyu13@gmail.com
 - Django 🥉
 
 
+### KT aivle School 5기 수료
+`#Python` `#DataAnalysis` `#ML` `#DL` 
+
+[GitHub Link](https://github.com/Nacho-Cola/KT_aivle_AI_track_5)
+
 
 ## Projects
 
