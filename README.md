@@ -14,7 +14,7 @@ email: sngyu13@gmail.com
 ```
 
 ### Programming Languages
-- Python 🥇 [1](#네이버-블로그-ID-크롤러)
+- Python 🥇 
 - C 🥈
 
 ### Frameworks / Technologies
