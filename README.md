@@ -33,7 +33,13 @@ email: sngyu13@gmail.com
 ## Projects
 
 ### _Voice Verity_
-`#Pyton` `#Tensorflow`
+`#Python` `#Tensorflow`
+
+[GitHub Link](https://github.com/)
+
+
+### _재정정보 AI 검색 알고리즘 경진대회_
+`#Python` `#langchain` `#RAG`
 
 [GitHub Link](https://github.com/)
 
