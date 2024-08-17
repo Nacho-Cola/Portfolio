@@ -30,6 +30,7 @@ email: sngyu13@gmail.com
 [GitHub Link](https://github.com/Nacho-Cola/KT_aivle_AI_track_5)
 
 
+
 ## Projects
 
 ### _Voice Verity_
@@ -41,7 +42,7 @@ email: sngyu13@gmail.com
 ### _재정정보 AI 검색 알고리즘 경진대회_
 `#Python` `#langchain` `#RAG`
 
-[GitHub Link](https://github.com/)
+[GitHub Link](https://github.com/Nacho-Cola/DACON)
 
 
 ### _EyeCare_
