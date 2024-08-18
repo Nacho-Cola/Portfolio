@@ -36,7 +36,7 @@ email: sngyu13@gmail.com
 ### _Voice Verity_
 `#Python` `#Tensorflow`
 
-[GitHub Link](https://github.com/)
+[GitHub Link](https://github.com/Nacho-Cola/KT_aivle_AI_track_5/tree/main/Big_Project_VoiceVerity)
 
 
 ### _[데이콘]재정정보 AI 검색 알고리즘 경진대회_
