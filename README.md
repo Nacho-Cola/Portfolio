@@ -33,19 +33,19 @@ email: sngyu13@gmail.com
 
 ## Projects
 
-### _Voice Verity_
+### [kt Aivle Big_project]_Voice Verity_
 `#Python` `#Tensorflow`
 
 [GitHub Link](https://github.com/Nacho-Cola/KT_aivle_AI_track_5/tree/main/Big_Project_VoiceVerity)
 
 
-### _[데이콘]재정정보 AI 검색 알고리즘 경진대회_
+### [데이콘]_재정정보 AI 검색 알고리즘 경진대회_
 `#Python` `#langchain` `#RAG`
 
 [GitHub Link](https://github.com/Nacho-Cola/DACON)
 
 
-### _EyeCare_
+### [캡스톤디자인]_EyeCare_
 `#Python` `#C#` `#Unity` `#React-Native` 
 
 `#Fast API`
