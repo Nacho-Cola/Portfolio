@@ -40,8 +40,7 @@ email: sngyu13@gmail.com
 [GitHub Link](https://github.com/Nacho-Cola/KT_aivle_AI_track_5)
 
 
-
-## Projects
+## Team Projects
 
 ### [kt Aivle Big_project]_Voice Verity_
 `#Python` `#Tensorflow`
@@ -65,6 +64,30 @@ email: sngyu13@gmail.com
 [GitHub Link](https://github.com/Nacho-Cola/AllNewEyeCare) [[PAPER](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11724447)]
 
 
+## Toy Projects
+
+### [개인 공부]_모델 구현_
+`#Python` `#TensorFlow` `#Pytorch` 
+
+`#linear` `#rogistic` `#MLP` `#CNN` `#GAN` `#Transformer(예정)`
+
+모델 공부를 위한 모델 구조 코드 구현.
+
+[GitHub Link]((https://github.com/Nacho-Cola/AI_model_implementation)) 
+
+
+### [Toy project]_레시피 AI (냉부)_
+`#Python` 
+
+`#Openai Api` `#Llama3.1` `#Web crowling` `#Flask` `#AWS EC2`   
+
+모델 공부를 위한 모델 구조 코드 구현.
+
+[GitHub Link](https://github.com/Nacho-Cola/recipes_10000) 
+[블로그 1](https://nacho-13.tistory.com/18)
+[블로그 2](https://nacho-13.tistory.com/19)
+[블로그 3](https://nacho-13.tistory.com/20)
+[블로그 4](https://nacho-13.tistory.com/21)
 
 
 
