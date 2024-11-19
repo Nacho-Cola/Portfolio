@@ -34,7 +34,7 @@ email: sngyu13@gmail.com
 - Jpa 🥉
 
 
-## Certification
+# Certification
 
 ### [2024.09.20]_SQLD_
 
@@ -43,7 +43,7 @@ email: sngyu13@gmail.com
 ### [2024.12.22]_빅데이터분석기사_
 
 
-## Education
+# Education
 
 ### KT aivle School 5기 수료
 `#Python` `#DataAnalysis` `#ML` `#DL` 
@@ -51,7 +51,7 @@ email: sngyu13@gmail.com
 [GitHub Link](https://github.com/Nacho-Cola/KT_aivle_AI_track_5)
 
 
-## Team Projects
+# Team Projects
 
 ### [kt Aivle Big_project]_Voice Verity_
 `#Python` `#Tensorflow`
@@ -75,7 +75,7 @@ email: sngyu13@gmail.com
 [GitHub Link](https://github.com/Nacho-Cola/AllNewEyeCare) [[PAPER](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11724447)]
 
 
-## Toy Projects
+# Toy Projects
 
 ### [개인 공부]_모델 구현_
 `#Python` `#TensorFlow` `#Pytorch` 
