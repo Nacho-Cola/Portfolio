@@ -34,6 +34,15 @@ email: sngyu13@gmail.com
 - Jpa 🥉
 
 
+## Certification
+
+### [2024.09.20]_SQLD_
+### [2024.06.18]_정보처리기사_
+### [2024.12.22]_빅데이터분석기사_
+
+
+## Education
+
 ### KT aivle School 5기 수료
 `#Python` `#DataAnalysis` `#ML` `#DL` 
 
