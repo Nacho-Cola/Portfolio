@@ -16,12 +16,22 @@ email: sngyu13@gmail.com
 ### Programming Languages
 - Python 🥇 
 - C 🥈
+- HTML 🥇
+- CSS 🥈
+- Javascript 🥉
+- Java 🥉
 
 ### Frameworks / Technologies
+- Flask 🥈
+- FastApi 🥈
+- TensorFlow 🥈
 - React 🥈 
 - React-Native 🥈
+- Pytorch 🥉
 - Docker 🥉 
 - Django 🥉
+- SpringBoot 🥉
+- Jpa 🥉
 
 
 ### KT aivle School 5기 수료
