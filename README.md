@@ -20,6 +20,7 @@
 - **TensorFlow** 🥈
 - **React** 🥈
 - **React Native** 🥈
+- **C++** 🥉
 - **PyTorch** 🥉
 - **Docker** 🥉
 - **Django** 🥉
@@ -36,9 +37,14 @@
 ---
 
 ## Education
-**KT AIVLE School 5기 Ai 개발자 
+**KT AIVLE School 5기 Ai 개발자**
 *Focus Areas:* `Python` `Data Analysis` `Machine Learning (ML)` `Deep Learning (DL)`  
 [GitHub Link](https://github.com/Nacho-Cola/KT_aivle_AI_track_5)
+
+**SSAFY 13기 Embedded -ing** 
+*Focus Areas:* `C/C++` `Linux`  
+
+
 
 ---
 
