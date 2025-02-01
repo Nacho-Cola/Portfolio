@@ -41,8 +41,7 @@
 *Focus Areas:* `Python` `Data Analysis` `Machine Learning (ML)` `Deep Learning (DL)`  
 [GitHub Link](https://github.com/Nacho-Cola/KT_aivle_AI_track_5)
 
-**SSAFY 13기 Embedded -ing** 
-*Focus Areas:* `C/C++` `Linux`  
+**SSAFY 13기 JAVA -ing** 
 
 
 
