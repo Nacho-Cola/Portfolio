@@ -67,7 +67,7 @@
 
 ---
 
-## 🎯 **Toy Projects**  
+## 🎯 **Personal Projects**  
 
 ### 🧠 **AI 모델 구조 코드 구현**  
 📌 *Technologies:* `Python` `TensorFlow` `PyTorch`  
